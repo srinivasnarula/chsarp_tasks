@@ -1,30 +1,27 @@
  Task 1
  =======
 
-* Class with 4 function names, 
+```
+- Use Web Application
+- Use Try Catch
+- Prompt should accept only numbers
+- Make both textboxes as mandatory
+```
+
+1. Create a Interface called `IMath` with 4 functions, 
   * Addition
   * Subtraction
   * Division
   * Multiplication
 
-1. When application loads display all function names with numbering.
-   * 1 Addition
-   * 2 Subtraction
-   * 3 Division
-   * 4 Multiplication
+2. Inherit Interface into class called `Math` and write logic.
+   
+3. In Web application display 4 buttons and integrate `Math` class,
+   * Addition
+   * Subtraction
+   * Division
+   * Multiplication
 
 
-2. When User enters 4, then it should display message.
-    * **Please enter multiplication numbers**
-    
-3. Prompt - Enter X :
-
-4. Prompt - Enter Y :
-
-5. Once both are entered, calculated and display **result**.
-
-```
-- Use Console application
-- Use Try Catch
-- Prompt should accept only numbers
-```
+4. Enter 2 numbers in text boxes and display **result** in Label.
+  
